@@ -1,0 +1,4 @@
+2022-02-12T16:12:56+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/nrstechnosolutio/public_html/javahomes/wp-content/plugins/rselements/widgets/course-category/course-category.php on line 750
+
+2022-02-12T16:31:02+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/nrstechnosolutio/public_html/javahomes/wp-content/plugins/rselements/widgets/course-category-slider/style1.php on line 58
+

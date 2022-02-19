@@ -1,0 +1,586 @@
+
+---Downloaded files---
+The import files for: Educavo LearnPress Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2021/12/demo-content-import-file_2021-12-27__07-29-25.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2021/12/demo-widgets-import-file_2021-12-27__07-29-25.json
+Customizer file = not defined!
+Redux files:
+educavo_option -> C:\xampp\htdocs\wordpress/wp-content/uploads/2021/12/demo-redux-import-file_0-2021-12-27__07-29-25.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "6" (Media)
+[ERROR] Failed to import "zigzag" (Media)
+[ERROR] Failed to import "coach" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "6" (Media)
+[ERROR] Failed to import "zigzag" (Media)
+[ERROR] Failed to import "coach" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "6" (Media)
+[ERROR] Failed to import "zigzag" (Media)
+[ERROR] Failed to import "coach" (Media)
+[ERROR] Failed to import "zigzag-small" (Media)
+[ERROR] Failed to import "revenue" (Media)
+[ERROR] Failed to import "leader" (Media)
+[ERROR] Failed to import "running-man" (Media)
+[ERROR] Failed to import "ceo" (Media)
+[ERROR] Failed to import "sign" (Media)
+[ERROR] Failed to import "discount" (Media)
+[ERROR] Failed to import "online-course" (Media)
+[ERROR] Failed to import "input_bg" (Media)
+[ERROR] Failed to import "brain" (Media)
+[ERROR] Failed to import "blog-single" (Media)
+[ERROR] Failed to import "newsletter" (Media)
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "2" (Media)
+[ERROR] Failed to import "3" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+[ERROR] Failed to import "6" (Media)
+[ERROR] Failed to import "7" (Media)
+[ERROR] Failed to import "8" (Media)
+[ERROR] Failed to import "shop_07" (Media)
+[ERROR] Failed to import "shop_05" (Media)
+[ERROR] Failed to import "newsletter-yellow" (Media)
+[ERROR] Failed to import "white-newsletter" (Media)
+[ERROR] Failed to import "logo-dark" (Media)
+[ERROR] Failed to import "logo-dark" (Media)
+[ERROR] Failed to import "dotted" (Media)
+[ERROR] Failed to import "dotted-vertical" (Media)
+[ERROR] Failed to import "logo_light" (Media)
+[ERROR] Failed to import "partner_5" (Media)
+[ERROR] Failed to import "partner_4" (Media)
+[ERROR] Failed to import "partner_3" (Media)
+[ERROR] Failed to import "partner_8" (Media)
+[ERROR] Failed to import "partner_6" (Media)
+[ERROR] Failed to import "partner_7" (Media)
+[ERROR] Failed to import "partner_2" (Media)
+[ERROR] Failed to import "web-development" (Media)
+[ERROR] Failed to import "web-design" (Media)
+[ERROR] Failed to import "seo" (Media)
+[ERROR] Failed to import "low-cost" (Media)
+[ERROR] Failed to import "scientist" (Media)
+[ERROR] Failed to import "course-variation" (Media)
+[ERROR] Failed to import "quote11" (Media)
+[ERROR] Failed to import "clock" (Media)
+[ERROR] Failed to import "engineering" (Media)
+[ERROR] Failed to import "video-marketing" (Media)
+[ERROR] Failed to import "video-marketing" (Media)
+[ERROR] Failed to import "engineering" (Media)
+[ERROR] Failed to import "clock" (Media)
+[ERROR] Failed to import "banner-12" (Media)
+[ERROR] Failed to import "logo-dark12" (Media)
+[ERROR] Failed to import "dt1" (Media)
+[ERROR] Failed to import "dt2" (Media)
+[ERROR] Failed to import "inner4" (Media)
+[ERROR] Failed to import "inner5" (Media)
+[ERROR] Failed to import "inner7" (Media)
+[ERROR] Failed to import "inner8" (Media)
+[ERROR] Failed to import "inner10" (Media)
+[ERROR] Failed to import "inner11" (Media)
+[ERROR] Failed to import "inner12" (Media)
+[ERROR] Failed to import "inner13" (Media)
+[ERROR] Failed to import "inner14" (Media)
+[ERROR] Failed to import "inner15" (Media)
+[ERROR] Failed to import "quote11" (Media)
+[ERROR] Failed to import "comming" (Media)
+[ERROR] Failed to import "placeholder.png" (Media)
+[ERROR] Failed to import "shape_2" (Media)
+[ERROR] Failed to import "shape_1" (Media)
+[ERROR] Failed to import "logo_1" (Media)
+[ERROR] Failed to import "logo_2" (Media)
+[ERROR] Failed to import "logo_3" (Media)
+[ERROR] Failed to import "logo_4" (Media)
+[ERROR] Failed to import "squre_image" (Media)
+[ERROR] Failed to import "squre_image_2" (Media)
+[ERROR] Failed to import "circle_image" (Media)
+[ERROR] Failed to import "arrow2" (Media)
+[ERROR] Failed to import "s33" (Media)
+[ERROR] Failed to import "partner1.png" (Media)
+[ERROR] Failed to import "partner2.png" (Media)
+[ERROR] Failed to import "partner3.png" (Media)
+[ERROR] Failed to import "partner6.png" (Media)
+[ERROR] Failed to import "partner4.png" (Media)
+[ERROR] Failed to import "partner5.png" (Media)
+[ERROR] Failed to import "line" (Media)
+[ERROR] Failed to import "qude" (Media)
+[ERROR] Failed to import "cta" (Media)
+[ERROR] Failed to import "border2" (Media)
+[ERROR] Failed to import "cat_04" (Media)
+[ERROR] Failed to import "cat_01" (Media)
+[ERROR] Failed to import "cat_02" (Media)
+[ERROR] Failed to import "cat_6" (Media)
+[ERROR] Failed to import "cat_5" (Media)
+[ERROR] Failed to import "cat_03" (Media)
+[ERROR] Failed to import "gym_1" (Media)
+[ERROR] Failed to import "gym_6" (Media)
+[ERROR] Failed to import "gym_5" (Media)
+[ERROR] Failed to import "gym_4" (Media)
+[ERROR] Failed to import "gym_3" (Media)
+[ERROR] Failed to import "gym_2" (Media)
+[ERROR] Failed to import "02" (Media)
+[ERROR] Failed to import "06" (Media)
+[ERROR] Failed to import "09" (Media)
+[ERROR] Failed to import "04" (Media)
+[ERROR] Failed to import "03" (Media)
+[ERROR] Failed to import "01" (Media)
+[ERROR] Failed to import "3" (Media)
+[ERROR] Failed to import "event_4" (Media)
+[ERROR] Failed to import "k_g4" (Media)
+[ERROR] Failed to import "6" (Media)
+[ERROR] Failed to import "home6_cours1" (Media)
+[ERROR] Failed to import "ev_k5" (Media)
+[ERROR] Failed to import "ev_k2" (Media)
+[ERROR] Failed to import "course1" (Media)
+[ERROR] Failed to import "gallery_11" (Media)
+[ERROR] Failed to import "k_6" (Media)
+[ERROR] Failed to import "k_5" (Media)
+[ERROR] Failed to import "k_2" (Media)
+[ERROR] Failed to import "k_3" (Media)
+[ERROR] Failed to import "k_4" (Media)
+[ERROR] Failed to import "home6_cours6" (Media)
+[ERROR] Failed to import "home6_cours4" (Media)
+[ERROR] Failed to import "home6_cours3" (Media)
+[ERROR] Failed to import "home6_cours2" (Media)
+[ERROR] Failed to import "home6_cours5" (Media)
+[ERROR] Failed to import "gallery_11" (Media)
+[ERROR] Failed to import "06" (Media)
+[ERROR] Failed to import "02" (Media)
+[ERROR] Failed to import "04" (Media)
+[ERROR] Failed to import "03" (Media)
+[ERROR] Failed to import "05" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+[ERROR] Failed to import "01" (Media)
+[ERROR] Failed to import "2-1" (Media)
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "gallery_5" (Media)
+[ERROR] Failed to import "2-5" (Media)
+[ERROR] Failed to import "inner3" (Media)
+[ERROR] Failed to import "inner2" (Media)
+[ERROR] Failed to import "inner9" (Media)
+[ERROR] Failed to import "inner6" (Media)
+[ERROR] Failed to import "blog-07" (Media)
+[ERROR] Failed to import "post-img" (Media)
+[ERROR] Failed to import "blog-02" (Media)
+[ERROR] Failed to import "blog1" (Media)
+[ERROR] Failed to import "blog-03" (Media)
+[ERROR] Failed to import "blog-04" (Media)
+[ERROR] Failed to import "blog-08" (Media)
+[ERROR] Failed to import "gymblog_4" (Media)
+[ERROR] Failed to import "gymblog_1" (Media)
+[ERROR] Failed to import "gymblog_2" (Media)
+[ERROR] Failed to import "1-61" (Media)
+[ERROR] Failed to import "slider-new-1" (Media)
+[ERROR] Failed to import "orientation" (Media)
+[ERROR] Failed to import "admission" (Media)
+[ERROR] Failed to import "testimonial" (Media)
+[ERROR] Failed to import "home-call" (Media)
+[ERROR] Failed to import "2" (Media)
+[ERROR] Failed to import "slide-2-1" (Media)
+[ERROR] Failed to import "about" (Media)
+[ERROR] Failed to import "undergraduate1" (Media)
+[ERROR] Failed to import "graduate2" (Media)
+[ERROR] Failed to import "online3" (Media)
+[ERROR] Failed to import "video2" (Media)
+[ERROR] Failed to import "covid-19" (Media)
+[ERROR] Failed to import "testimonials" (Media)
+[ERROR] Failed to import "1051" (Media)
+[ERROR] Failed to import "first-one" (Media)
+[ERROR] Failed to import "home9_bg" (Media)
+[ERROR] Failed to import "main" (Media)
+[ERROR] Failed to import "1-31" (Media)
+[ERROR] Failed to import "2-31" (Media)
+[ERROR] Failed to import "video-bg" (Media)
+[ERROR] Failed to import "animated" (Media)
+[ERROR] Failed to import "service-2" (Media)
+[ERROR] Failed to import "graphic" (Media)
+[ERROR] Failed to import "service-4" (Media)
+[ERROR] Failed to import "testi" (Media)
+[ERROR] Failed to import "bbff" (Media)
+[ERROR] Failed to import "logo_15" (Media)
+[ERROR] Failed to import "k_g1" (Media)
+[ERROR] Failed to import "k_g2" (Media)
+[ERROR] Failed to import "k_g3" (Media)
+[ERROR] Failed to import "k_g5" (Media)
+[ERROR] Failed to import "k_g8" (Media)
+[ERROR] Failed to import "xcxcxc" (Media)
+[ERROR] Failed to import "ev_k4" (Media)
+[ERROR] Failed to import "ev_k3" (Media)
+[ERROR] Failed to import "ev_k1" (Media)
+[ERROR] Failed to import "bbbb" (Media)
+[ERROR] Failed to import "1-4" (Media)
+[ERROR] Failed to import "2-2" (Media)
+[ERROR] Failed to import "1-41" (Media)
+[ERROR] Failed to import "2-51" (Media)
+[ERROR] Failed to import "banner" (Media)
+[ERROR] Failed to import "icon-1" (Media)
+[ERROR] Failed to import "icon-2" (Media)
+[ERROR] Failed to import "icon-3" (Media)
+[ERROR] Failed to import "cerkel" (Media)
+[ERROR] Failed to import "online-learn-shape" (Media)
+[ERROR] Failed to import "banner_1" (Media)
+[ERROR] Failed to import "video_bg_15" (Media)
+[ERROR] Failed to import "video_text_bg" (Media)
+[ERROR] Failed to import "designer" (Media)
+[ERROR] Failed to import "line" (Media)
+[ERROR] Failed to import "arrow" (Media)
+[ERROR] Failed to import "banner-12" (Media)
+[ERROR] Failed to import "why" (Media)
+[ERROR] Failed to import "google-play" (Media)
+[ERROR] Failed to import "apple-app" (Media)
+[ERROR] Failed to import "img14" (Media)
+[ERROR] Failed to import "2" (Media)
+[ERROR] Failed to import "1-2" (Media)
+[ERROR] Failed to import "2781474-1" (Media)
+[ERROR] Failed to import "mobile-app" (Media)
+[ERROR] Failed to import "part_1" (Media)
+[ERROR] Failed to import "banner-intro-box" (Media)
+[ERROR] Failed to import "sld_2" (Media)
+[ERROR] Failed to import "slider-23-1" (Media)
+[ERROR] Failed to import "part_1" (Media)
+[ERROR] Failed to import "part_02" (Media)
+[ERROR] Failed to import "part_03" (Media)
+[ERROR] Failed to import "part_004" (Media)
+[ERROR] Failed to import "1-4" (Media)
+[ERROR] Failed to import "2-4" (Media)
+[ERROR] Failed to import "1-3" (Media)
+[ERROR] Failed to import "2-2" (Media)
+[ERROR] Failed to import "1-5" (Media)
+[ERROR] Failed to import "1-7" (Media)
+[ERROR] Failed to import "4-2" (Media)
+[ERROR] Failed to import "2-6" (Media)
+[ERROR] Failed to import "3-4" (Media)
+[ERROR] Failed to import "sds" (Media)
+[ERROR] Failed to import "about" (Media)
+[ERROR] Failed to import "small_shape" (Media)
+[ERROR] Failed to import "about51" (Media)
+[ERROR] Failed to import "hgjk" (Media)
+[ERROR] Failed to import "about-bg" (Media)
+[ERROR] Failed to import "home_07" (Media)
+[ERROR] Failed to import "slide" (Media)
+[ERROR] Failed to import "tab1" (Media)
+[ERROR] Failed to import "tab2" (Media)
+[ERROR] Failed to import "tab3" (Media)
+[ERROR] Failed to import "2-4" (Media)
+[ERROR] Failed to import "3-3" (Media)
+[ERROR] Failed to import "4-1" (Media)
+[ERROR] Failed to import "sbg1" (Media)
+[ERROR] Failed to import "about-1" (Media)
+[ERROR] Failed to import "video-bg-8" (Media)
+[ERROR] Failed to import "subbg" (Media)
+[ERROR] Failed to import "event_1" (Media)
+[ERROR] Failed to import "event_2" (Media)
+[ERROR] Failed to import "event_3" (Media)
+[ERROR] Failed to import "event_5" (Media)
+[ERROR] Failed to import "Layer-562" (Media)
+[ERROR] Failed to import "Layer-91" (Media)
+[ERROR] Failed to import "gallery_9-1" (Media)
+[ERROR] Failed to import "img-layer" (Media)
+[ERROR] Failed to import "banner" (Media)
+[ERROR] Failed to import "about-left-image" (Media)
+[ERROR] Failed to import "counter_bg" (Media)
+[ERROR] Failed to import "logo_bg" (Media)
+[ERROR] Failed to import "join-us-image" (Media)
+[ERROR] Failed to import "subscribe_bg" (Media)
+[ERROR] Failed to import "footer" (Media)
+[ERROR] Failed to import "h3_bg" (Media)
+[ERROR] Failed to import "bnr3-top" (Media)
+[ERROR] Failed to import "bg-testimonial" (Media)
+[ERROR] Failed to import "footer_03" (Media)
+[ERROR] Failed to import "footer" (Media)
+[ERROR] Failed to import "slide" (Media)
+[ERROR] Failed to import "home4_about-1" (Media)
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "admission-1" (Media)
+[ERROR] Failed to import "footer_06" (Media)
+[ERROR] Failed to import "admission-red" (Media)
+[ERROR] Failed to import "footer_06" (Media)
+[ERROR] Failed to import "footer_06" (Media)
+[ERROR] Failed to import "1-1" (Media)
+[ERROR] Failed to import "teacher_25" (Media)
+[ERROR] Failed to import "teacher_24" (Media)
+[ERROR] Failed to import "teacher_23" (Media)
+[ERROR] Failed to import "teacher_28" (Media)
+[ERROR] Failed to import "teacher_6" (Media)
+[ERROR] Failed to import "dfgdfg" (Media)
+[ERROR] Failed to import "inner01" (Media)
+[ERROR] Failed to import "teacher_2" (Media)
+[ERROR] Failed to import "teacher_21" (Media)
+[ERROR] Failed to import "teachers_17" (Media)
+[ERROR] Failed to import "teacher_10" (Media)
+[ERROR] Failed to import "teacher_107" (Media)
+[ERROR] Failed to import "teacher_27" (Media)
+[ERROR] Failed to import "teacher_26" (Media)
+[ERROR] Failed to import "t_1" (Media)
+[ERROR] Failed to import "t_3" (Media)
+[ERROR] Failed to import "t_4" (Media)
+[ERROR] Failed to import "t_2" (Media)
+[ERROR] Failed to import "testimonial-img-4" (Media)
+[ERROR] Failed to import "3-6" (Media)
+[ERROR] Failed to import "5-1" (Media)
+[ERROR] Failed to import "4-3" (Media)
+[ERROR] Failed to import "2-8" (Media)
+[ERROR] Failed to import "1-7" (Media)
+[ERROR] Failed to import "about-02" (Media)
+[ERROR] Failed to import "left-bg2" (Media)
+[ERROR] Failed to import "bg-1" (Media)
+[ERROR] Failed to import "faq" (Media)
+[ERROR] Failed to import "6" (Media)
+[ERROR] Failed to import "5" (Media)
+[ERROR] Failed to import "2-3" (Media)
+[ERROR] Failed to import "apply1" (Media)
+[ERROR] Failed to import "rgrhfgh-1" (Media)
+[ERROR] Failed to import "con2" (Media)
+[ERROR] Failed to import "shop_12-1" (Media)
+[ERROR] Failed to import "shop_11-1" (Media)
+[ERROR] Failed to import "shop_10-1" (Media)
+[ERROR] Failed to import "shop_09-1" (Media)
+[ERROR] Failed to import "shop_08-1" (Media)
+[ERROR] Failed to import "shop_06-1" (Media)
+[ERROR] Failed to import "shop_04-1" (Media)
+[ERROR] Failed to import "shop_03-2" (Media)
+[ERROR] Failed to import "gallery_1" (Media)
+[ERROR] Failed to import "gallery_2" (Media)
+[ERROR] Failed to import "shop_02-2" (Media)
+[ERROR] Failed to import "shop_01-2" (Media)
+[ERROR] Failed to import "gallery_4" (Media)
+[ERROR] Failed to import "gallery_5" (Media)
+[ERROR] Failed to import "gallery_6" (Media)
+[ERROR] Failed to import "gallery_1" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
